@@ -4,7 +4,7 @@ Id Filter
 
 
 
-This is an implementation of the [idFilter notation](https://github.com/lingtalfi/universe/blob/master/planets/NotationFan/IdFilter/notation.idFilter.eng.md).<br>
+This is an implementation of the [idFilter notation](https://github.com/lingtalfi/NotationFan/blob/master/IdFilter/notation.idFilter.eng.md).<br>
 This notation might be useful if you want to select a subset of numbers from a given set of numbers.<br>
 
 As a concrete example, I used this class while creating a moderating command line tool.<br>
@@ -43,7 +43,7 @@ foreach ($strings as $s) {
 
 
 Note, for this script, 
-I used the [bigbang](https://github.com/lingtalfi/universe/blob/master/planets/TheScientist/convention.portableAutoloader.eng.md)
+I used the [bigbang](https://github.com/lingtalfi/TheScientist/blob/master/convention.portableAutoloader.eng.md)
 autoloader (which contains the a function). 
 
 
