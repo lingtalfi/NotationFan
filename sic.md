@@ -19,7 +19,7 @@ Summary
 - [Notation (abstract)](#notation-abstract)
 - [Examples](#examples)
     - [Example #1 an instance](#example-1-an-instance)
-    - [Example #2 a callable](#example-1-a-callable)
+    - [Example #2 a callable](#example-2-a-callable)
 - [Description](#description)
 - [Related tools](#related-tools)
 
@@ -71,26 +71,22 @@ Here is what it looks like:
 ### Example #1 an instance
 
 ```yaml
-listeners:
-    - :
-        instance: Jin\Log\Listener\FileLoggerListener
-        methods:
-            configure:
-                -
-                    file: ${appDir}/log/jin.log
-                    isFileRotationEnabled: true
-                    maxFileSize: 2M
-                    rotatedFileExtension: log
-                    zipRotatedFiles: true
+instance: Jin\Log\Listener\FileLoggerListener
+methods:
+    configure:
+        -
+            file: ${appDir}/log/jin.log
+            isFileRotationEnabled: true
+            maxFileSize: 2M
+            rotatedFileExtension: log
+            zipRotatedFiles: true
 ```
 
 
 ### Example #2 a callable
 ```yaml
-pre_routing:
-    -
-        instance: Jin\HttpRequestLifecycle\PreRouting\RequestLog
-        callable_method: handleRequest
+instance: Jin\HttpRequestLifecycle\PreRouting\RequestLog
+callable_method: handleRequest
 ```
 
 
