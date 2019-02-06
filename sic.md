@@ -149,8 +149,8 @@ methods:
 
 ```
 
-The example above will create an instance of Jin\Log\Listener\Imaginary,
-and then call its setMailer method, with a new instance of Imaginary\Mailer\MailerService as the only argument.
+The example above will create an instance of *Jin\Log\Listener\Imaginary*,
+and then call its **setMailer** method, with a new instance of *Imaginary\Mailer\MailerService* as the only argument.
 
 
 
