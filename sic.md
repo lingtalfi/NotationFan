@@ -68,7 +68,11 @@ instance: string, the class name
 ```
 
 
+
 See the [examples section](#examples) for more details.
+
+
+Note: if both **methods** and **methods_collection** are defined, **methods** is executed first.
 
 
 Note that **sic** is just a notation and doesn't provide any tool for implementing such a system.
