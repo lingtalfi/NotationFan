@@ -187,8 +187,7 @@ callable_method: handleRequest
 Related Tools
 -------------
 
-Yep buddy, no tools for now, sorry (try again on march 1st 2019 maybe?).
 
-- TODO...
+- [Sic Tools](https://github.com/karayabin/universe-snapshot/tree/master/universe/SicTools), low level tools to help you implement your own "sic" service containers
 
 
