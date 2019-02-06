@@ -63,6 +63,7 @@ instance: string, the class name
             a sic block but isn't really one (i.e. an array containing an instance key for instance).
             The pass key has to be chosen by the implementor, and should be consistent across her project/application.
             For instance, if it fits your case, you could use the following: __pass__.
+            The pass key might be removed (if found) by an interpreter, so that the intent of the array is not altered.
 
 ```
 
