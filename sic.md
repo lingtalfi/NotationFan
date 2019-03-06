@@ -7,7 +7,7 @@ Sic stands for "Service instantiation code".
 
 It's an array notation to describe services instantiation in a services oriented environment.
 
-In this document, I will write arrays in [babyYaml notation](https://github.com/karayabin/universe-snapshot/tree/master/universe/BabyYaml) for clarity.
+In this document, I will write arrays in [babyYaml notation](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/BabyYaml) for clarity.
 
 
 
@@ -188,7 +188,7 @@ Related Tools
 -------------
 
 
-- [Sic Tools](https://github.com/karayabin/universe-snapshot/tree/master/universe/SicTools), low level tools to help you implement your own "sic" service containers
+- [Sic Tools](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/SicTools), low level tools to help you implement your own "sic" service containers
 - [Octopus](https://github.com/lingtalfi/Octopus), a service container for your app
 
 

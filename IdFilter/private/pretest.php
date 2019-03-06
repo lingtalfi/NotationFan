@@ -1,7 +1,7 @@
 <?php
 
 
-use NotationFan\IdFilter\IdFilterUtil;
+use Ling\NotationFan\IdFilter\IdFilterUtil;
 
 
 require_once 'bigbang.php';

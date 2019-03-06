@@ -20,7 +20,7 @@ Usage
 <?php
 
 
-use NotationFan\IdFilter\IdFilterTool;
+use Ling\NotationFan\IdFilter\IdFilterTool;
 
 require_once 'bigbang.php';
 
