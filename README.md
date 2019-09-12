@@ -27,12 +27,17 @@ Summary
 
 - [IdFilter notation](https://github.com/lingtalfi/NotationFan/blob/master/IdFilter/notation.idFilter.eng.md)
 - [Sic notation](https://github.com/lingtalfi/NotationFan/blob/master/sic.md)
+- [ric concept](https://github.com/lingtalfi/NotationFan/blob/master/ric.md)
 
 
 
 History Log
 ===============
 
+- 1.1.0 -- 2019-09-12
+
+    - added ric concept
+    
 - 1.0.1 -- 2019-08-06
 
     - update sic documentation
