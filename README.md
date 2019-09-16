@@ -28,12 +28,17 @@ Summary
 - [IdFilter notation](https://github.com/lingtalfi/NotationFan/blob/master/IdFilter/notation.idFilter.eng.md)
 - [Sic notation](https://github.com/lingtalfi/NotationFan/blob/master/sic.md)
 - [ric concept](https://github.com/lingtalfi/NotationFan/blob/master/ric.md)
+- [susco reference](https://github.com/lingtalfi/NotationFan/blob/master/sql-unofficial-standard-comparison-operators.md)
 
 
 
 History Log
 ===============
 
+- 1.2.0 -- 2019-09-16
+
+    - added susco reference
+    
 - 1.1.0 -- 2019-09-12
 
     - added ric concept

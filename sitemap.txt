@@ -3,3 +3,4 @@ https://github.com/lingtalfi/NotationFan/blob/master/IdFilter/notation.idFilter.
 https://github.com/lingtalfi/NotationFan/blob/master/README.md
 https://github.com/lingtalfi/NotationFan/blob/master/ric.md
 https://github.com/lingtalfi/NotationFan/blob/master/sic.md
+https://github.com/lingtalfi/NotationFan/blob/master/sql-unofficial-standard-comparison-operators.md
