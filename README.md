@@ -35,6 +35,10 @@ Summary
 History Log
 ===============
 
+- 1.4.2 -- 2019-09-18
+
+    - fix typo 
+    
 - 1.4.1 -- 2019-09-18
 
     - add js code example for hep 

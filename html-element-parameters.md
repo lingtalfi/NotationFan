@@ -39,7 +39,7 @@ function getElementParameters(jElement) {
             attr[name] = v;
         }
     });
-    return attr
+    return attr;
 }
 
 ```
