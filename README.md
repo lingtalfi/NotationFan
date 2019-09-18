@@ -29,12 +29,20 @@ Summary
 - [Sic notation](https://github.com/lingtalfi/NotationFan/blob/master/sic.md)
 - [ric concept](https://github.com/lingtalfi/NotationFan/blob/master/ric.md)
 - [susco reference](https://github.com/lingtalfi/NotationFan/blob/master/sql-unofficial-standard-comparison-operators.md)
-
+- [hep reference](https://github.com/lingtalfi/NotationFan/blob/master/html-element-parameters.md)
 
 
 History Log
 ===============
 
+- 1.4.0 -- 2019-09-18
+
+    - added hep reference
+    
+- 1.3.0 -- 2019-09-16
+
+    - added lsom reference
+    
 - 1.2.0 -- 2019-09-16
 
     - added susco reference
