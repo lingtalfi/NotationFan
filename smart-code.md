@@ -36,6 +36,7 @@ As it turns out, it has been used in various ways, mostly to provide developers 
 
 Some examples include:
 
+
 - [SmartCodeTool::parse](https://github.com/lingtalfi/Bat/blob/master/SmartCodeTool.md#parse), to parse the smart code as is
 - [SmartCodeTool::parseArguments](https://github.com/lingtalfi/Bat/blob/master/SmartCodeTool.md#parsearguments), to parse arguments using the smart code notation
 - [ClassTool::executePhpMethod](https://github.com/lingtalfi/Bat/blob/master/ClassTool.md#executephpmethod-aka-smart-php-method-call), a little bit more involved notation to create class instances or call services

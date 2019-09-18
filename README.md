@@ -36,6 +36,10 @@ Summary
 History Log
 ===============
 
+- 1.5.1 -- 2019-09-18
+
+    - fix smart code doc with markdown table
+    
 - 1.5.0 -- 2019-09-18
 
     - add smart code
