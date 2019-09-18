@@ -15,17 +15,18 @@ Technically, a smart code is an alias for the [BabyYaml](https://github.com/ling
 So for instance:
 
 
-SmartCode               |   Php value equivalent 
----------------         | -------------------
-hello                   |   string hello
-123                     |   int 123
-12.3                    |   float 12.3
-null                    |   null
-true                    |   true
-false                   |   false
-[a, b]                  |   array ["a", "b"]
-{a: 123, b: 456 }       |   array ["a" => 123, "b" => 456]
-{a: 123, b: [e, t] }    |   array ["a" => 123, "b" => ["e", "t"]]
+
+| SmartCode               |   Php value equivalent 
+|----------------------- | -------------------
+| hello                   |   string hello
+| 123                     |   int 123
+| 12.3                    |   float 12.3
+| null                    |   null
+| true                    |   true
+| false                   |   false
+| [a, b]                  |   array ["a", "b"]
+| {a: 123, b: 456 }       |   array ["a" => 123, "b" => 456]
+| {a: 123, b: [e, t] }    |   array ["a" => 123, "b" => ["e", "t"]]
 
 
 
