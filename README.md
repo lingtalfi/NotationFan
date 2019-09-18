@@ -30,11 +30,16 @@ Summary
 - [ric concept](https://github.com/lingtalfi/NotationFan/blob/master/ric.md)
 - [susco reference](https://github.com/lingtalfi/NotationFan/blob/master/sql-unofficial-standard-comparison-operators.md)
 - [hep reference](https://github.com/lingtalfi/NotationFan/blob/master/html-element-parameters.md)
+- [smart code](https://github.com/lingtalfi/NotationFan/blob/master/smart-code.md)
 
 
 History Log
 ===============
 
+- 1.5.0 -- 2019-09-18
+
+    - add smart code
+    
 - 1.4.2 -- 2019-09-18
 
     - fix typo 
