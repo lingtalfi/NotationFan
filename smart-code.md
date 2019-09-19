@@ -39,6 +39,7 @@ Some examples include:
 
 - [SmartCodeTool::parse](https://github.com/lingtalfi/Bat/blob/master/SmartCodeTool.md#parse), to parse the smart code as is
 - [SmartCodeTool::parseArguments](https://github.com/lingtalfi/Bat/blob/master/SmartCodeTool.md#parsearguments), to parse arguments using the smart code notation
+- [SmartCodeTool::replaceSmartCodeFunction](https://github.com/lingtalfi/Bat/blob/master/SmartCodeTool.md#replacesmartcodefunction), to replace smart code recursively in an array using a function-like notation
 - [ClassTool::executePhpMethod](https://github.com/lingtalfi/Bat/blob/master/ClassTool.md#executephpmethod-aka-smart-php-method-call), a little bit more involved notation to create class instances or call services
 
 
