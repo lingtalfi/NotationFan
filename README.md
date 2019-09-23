@@ -36,6 +36,10 @@ Summary
 History Log
 ===============
 
+- 1.5.3 -- 2019-09-23
+
+    - fix hep example incomplete
+    
 - 1.5.2 -- 2019-09-19
 
     - add smart code reference
