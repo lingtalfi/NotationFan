@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.7.1 -- 2019-10-04
+
+    - updated ric definition
+    
 - 1.7.0 -- 2019-10-01
 
     - add portable fileName
