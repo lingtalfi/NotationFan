@@ -15,6 +15,9 @@ So, here is the official definition.
 Ric is an acronym, it stands for row identifying columns.
 It's basically an array of the columns which identify a row uniquely.
 
+Perhaps the easiest way to think about it is the minimum set of fields required to update a row in a table.
+
+
 Usually, the ric is equivalent to the columns of the primary key of the table if it has a one.
 
 If the table doesn't have a primary key, then the ric becomes the array of unique indexes that takes care

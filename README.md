@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.7.2 -- 2019-11-04
+
+    - updated ric definition
+    
 - 1.7.1 -- 2019-10-04
 
     - updated ric definition
