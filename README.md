@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.8.0 -- 2019-11-19
+
+    - updated hep, now accepts json notation
+    
 - 1.7.3 -- 2019-11-04
 
     - updated ric definition
