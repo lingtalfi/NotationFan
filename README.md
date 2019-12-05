@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.9.0 -- 2019-12-05
+
+    - add alternative method to universe assets trick 
+    
 - 1.8.0 -- 2019-11-19
 
     - updated hep, now accepts json notation
