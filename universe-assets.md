@@ -92,48 +92,6 @@ Basically, all I need to do is create the following structure at the root of the
 Note: those are only directories.
 
 
-Alternately, the default way of importing those asset classes (or any classes) in the universe framework is to create
-a functional dependency to it. In other words, we just need to create a class that uses (php use) that dependency planet.
-
-So we can do this for instance (note: the faker class can be anywhere in your planet, this is just a suggestion):
-
-```text
-- MyBigPlanet/
------ UniverseAssetDependencies/
---------- MyBigPlanetFaker.php
-```
-
-And the content of **MyBigPlanetFaker.php** would be:
-
-```php
-<?php 
-
-namespace MyBigPlanet\UniversalAssetDependencies; // any namespace would do actually, but keep it consistent
-use TheGalaxyName\JMyAssetPlanet; // that's the trigger for my automatic tools to make a dependency to this planet
-
-
-class MyBigPlanetFaker {
-    public function __construct(){
-        // this is not necessary but it forces the use statement to be there,
-        // whereas if I don't instantiate this class, my ide's cleaning/optimizing routine would remove the 
-        // not used "use statement", which would make my tools to NOT detect that dependency.
-       $o = new JMyAssetPlanet(); 
-    }
-}
-
-
-
-?>
-```
-
-I first didn't like too much the idea of creating a fake class, but now that I've tested both technique,
-I now prefer this fake class technique more than the aforementioned directory technique, because it's a little bit 
-more practical, namely I have the name of the class auto completed for me by my ide, which leads to less errors,
-plus I can reference all my dependencies in one class vs creating multiple directories.
-
-However, what's done is done, so both techniques are available.
-
-
 
 
 

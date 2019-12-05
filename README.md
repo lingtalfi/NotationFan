@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.9.1 -- 2019-12-05
+
+    - removed alternative method to universe assets trick 
+    
 - 1.9.0 -- 2019-12-05
 
     - add alternative method to universe assets trick 
