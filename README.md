@@ -1,6 +1,6 @@
 NotationFan
 ===========
-2015-10-06
+2015-10-06 -> 2020-09-18
 
 
 
@@ -38,6 +38,10 @@ Summary
 History Log
 ===============
 
+- 1.9.2 -- 2020-09-18
+
+    - update hep document
+    
 - 1.9.1 -- 2019-12-05
 
     - removed alternative method to universe assets trick 
