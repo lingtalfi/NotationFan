@@ -1,6 +1,6 @@
 NotationFan
 ===========
-2015-10-06 -> 2020-10-06
+2015-10-06 -> 2020-10-23
 
 
 
@@ -39,6 +39,10 @@ Summary
 History Log
 ===============
 
+- 1.9.4 -- 2020-10-23
+
+    - update filename basename document
+    
 - 1.9.3 -- 2020-10-06
 
     - add filename basename document
