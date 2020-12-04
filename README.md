@@ -39,6 +39,10 @@ Summary
 History Log
 ===============
 
+- 1.9.6 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.9.5 -- 2020-10-23
 
     - update filename basename document, add link to php basename
