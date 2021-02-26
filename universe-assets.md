@@ -98,3 +98,7 @@ The cases when my tools cannot guess the dependencies are the following so far:
   
 - sometimes when I write a light service configuration, I reference a class that's outside my planet, thereby creating a dependency to that planet.
     My tools don't read the service configuration files, and therefore miss the dependency. This happens in the [Light_Kit](https://github.com/lingtalfi/Light_Kit) service conf for instance.
+  
+- when writing [kit pages](https://github.com/lingtalfi/Light_Kit#babyyaml-page-configuration-files), it's likely that I call widgets from other planets.
+    When that happens, my tools don't know about it because they don't read those kit pages (yet), and so I use this trick in this case too to define
+    the dependencies manually.
