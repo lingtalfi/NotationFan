@@ -1,6 +1,6 @@
 NotationFan
 ===========
-2015-10-06 -> 2020-10-23
+2015-10-06 -> 2021-02-26
 
 
 
@@ -39,9 +39,13 @@ Summary
 History Log
 ===============
 
+- 1.9.8 -- 2021-02-26
+
+    - update universe assets dependencies trick section
+  
 - 1.9.7 -- 2020-12-08
 
-    - Fix lpi-deps not using natsort.
+    - Fix lpi-deps not using natsort
 
 - 1.9.6 -- 2020-12-04
 
