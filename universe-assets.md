@@ -84,12 +84,11 @@ Using the **universe asset dependencies** trick, I will create the following str
 
 
 And that's it.
+Then, when I publish a planet, my publishing tools (such as the [PushCommand](https://github.com/lingtalfi/LingTalfi/blob/master/Kaos/Command/PushCommand.php))
+will parse the **UniverseAssetDependencies** directory if it exists, and automatically write the corresponding dependencies in the [dependencies.byml](https://github.com/lingtalfi/Uni2#dependenciesbyml) file.
 
-When I publish a planet, my publishing tools (the [PushCommand](https://github.com/lingtalfi/LingTalfi/blob/master/Kaos/Command/PushCommand.php))
-will read the parse the **UniverseAssetDependencies** directory if it exists, and write the corresponding dependencies in the [dependencies.byml](https://github.com/lingtalfi/Uni2#dependenciesbyml) file.
 
-
-I found myself in the need for that trick when my tools cannot guess the dependencies of the planet directly. So I help them by defining them manually
+I found myself in the need for that feature when my tools cannot guess the dependencies of the planet directly. So I help them by defining them manually
 using this trick.
 The cases when my tools cannot guess the dependencies are the following so far:
 

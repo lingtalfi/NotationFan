@@ -39,6 +39,10 @@ Summary
 History Log
 ===============
 
+- 1.9.9 -- 2021-02-26
+
+    - update typo in universe assets dependencies trick section (2)
+  
 - 1.9.8 -- 2021-02-26
 
     - update universe assets dependencies trick section
